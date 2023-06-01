@@ -5,3 +5,4 @@ if [ $# -ne 1 ]; then
     exit 1
 fi
 ping "$1" -c5
+
